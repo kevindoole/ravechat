@@ -7,6 +7,8 @@
     "start": "node index.js",
     "test": "jest --coverage --forceExit"
   },
+  "engines": { "node" : ">=12.14.1"},
+"engineStrict": true},
   "keywords": [
     "rave",
     "chat",
@@ -17,4 +19,5 @@
   "dependencies": {
     "server": "^1.0.31"
   }
+
 }
