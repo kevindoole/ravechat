@@ -8,7 +8,6 @@
     "test": "jest --coverage --forceExit"
   },
   "engines": { "node" : ">=12.14.1"},
-"engineStrict": true},
   "keywords": [
     "rave",
     "chat",
