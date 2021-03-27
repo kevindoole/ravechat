@@ -81,7 +81,7 @@ window.addEventListener('keydown', function (event) {
     if(k===76) playSound('L'); else
     if(k===77) playSound('M'); else
     if(k===78) playSound('N'); else
-    if(k===78) playSound('O'); else
+    if(k===79) playSound('O'); else
     if(k===80) playSound('P'); else
     if(k===81) playSound('Q'); else
     if(k===82) playSound('R'); else

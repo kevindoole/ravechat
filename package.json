@@ -7,8 +7,8 @@
     "start": "node index.js",
     "test": "jest --coverage --forceExit"
   },
-  "engines": { 
-    "node" : ">=12.14.1"
+  "engines": {
+    "node": ">=12.14.1"
   },
   "keywords": [
     "rave",
@@ -18,9 +18,8 @@
   "author": "devin ronneberg",
   "license": "ISC",
   "dependencies": {
-    "server": "^1.0.31",
     "pug": ">=3.0.1",
-    "pug-code-gen": ">=3.0.2"
+    "pug-code-gen": ">=3.0.2",
+    "server": "^1.0.32"
   }
-
 }
