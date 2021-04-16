@@ -24,6 +24,7 @@ h1, .user-count {
   padding: 10px 0;
   font-size: 32px;
   color:lime;
+  background-color:#000;
 }
 
 h1 span {
@@ -46,7 +47,7 @@ div .usercount {
   background: HotPink;
   padding: 5px 10px;
   word-wrap: break-word;
-  color:lime;
+  color:black;
 }
 
 .chat p {
