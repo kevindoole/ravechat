@@ -10,7 +10,7 @@ if (!user) {
     alert('We cannot work with you like that!');
   } else {
     // Store it in the cookies for future use
-    cookie.set('user', user);
+    cookie.set('user', user, {sameSite: 'None', secure: true);
   }
 }
 
